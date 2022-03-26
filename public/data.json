@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "image": "https://img.freepik.com/free-photo/japanese-hatchback-autumn-road-rainy-day_470606-741.jpg?w=740",
+      "price": 461,
+      "name": "Crawford Mcmillan"
+    },
+    {
+      "id": 2,
+      "image": "https://img.freepik.com/free-photo/blue-car-is-winning-auto-ice-race_470606-774.jpg?w=740",
+      "price": 575,
+      "name": "Deirdre Conley"
+    },
+    {
+      "id": 3,
+      "image": "https://img.freepik.com/free-photo/auto-ice-racing-frozen-lake_470606-775.jpg?w=740",
+      "price": 392,
+      "name": "Williamson Nolan"
+    },
+    {
+      "id": 4,
+      "image": "https://img.freepik.com/free-photo/auto-ice-racing-frozen-lake_470606-776.jpg?w=740",
+      "price": 635,
+      "name": "Lindsey Hull"
+    },
+    {
+      "id": 5,
+      "image": "https://img.freepik.com/free-photo/black-car-moving-ice-making-lots-ice-splashes_470606-777.jpg?w=740",
+      "price": 642,
+      "name": "Alisa Pena"
+    },
+    {
+      "id": 6,
+      "image": "https://img.freepik.com/free-photo/black-car-moving-ice-with-blured-background_470606-838.jpg?w=740",
+      "price": 166,
+      "name": "Ofelia Mendez"
+    },
+    {
+      "id": 7,
+      "image": "https://img.freepik.com/free-photo/winter-ice-track-race-frozen-lake_470606-863.jpg?w=740",
+      "price": 183,
+      "name": "Betsy Hansen"
+    },
+    {
+      "id": 8,
+      "image": "https://img.freepik.com/free-photo/winter-ice-track-race-frozen-lake_470606-864.jpg?w=740",
+      "price": 656,
+      "name": "Cecilia Wolf"
+    },
+    {
+      "id": 9,
+      "image": "https://img.freepik.com/free-photo/new-expensive-white-sport-car-honda-parked-front-garage-door-paved-well-kept-yard-with-green-lawn-decorative-trees-brick-fence-big-two-story-cottage-luxury-prosperity-concept_127089-9368.jpg?w=740",
+      "price": 706,
+      "name": "Nelda Mercado"
+    },
+    {
+      "id": 10,
+      "image": "https://img.freepik.com/free-photo/two-honda-civic-sedan-car-outdoor-parking-side-view_571490-31.jpg?w=740",
+      "price": 598,
+      "name": "Baird Slater"
+    },
+    {
+      "id": 11,
+      "image": "https://img.freepik.com/free-photo/honda-civic-sedan-car-outdoor-parking-side-view_571490-29.jpg?w=740",
+      "price": 121,
+      "name": "Howell Mueller"
+    },
+    {
+      "id": 12,
+      "image": "https://img.freepik.com/free-photo/honda-jass-fit-hatchback-car-outdoor-parking-view_571490-35.jpg?w=740",
+      "price": 756,
+      "name": "Hinton Wiley"
+    }    
+]

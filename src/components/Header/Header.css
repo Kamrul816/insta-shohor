@@ -1,5 +1,9 @@
 .header{
-    height: 100px;
-    background-color: #5ca8fa;
+    height: 120px;
+    background-color: #82befd;
     text-align: center;
+}
+.header h1{
+    margin-top: 0;
+    margin-bottom: 20px;
 }
