@@ -66,27 +66,27 @@ function Shop() {
                 <div className="accordion-item">
                     <h2 className="accordion-header" id="headingOne">
                     <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        How React Works?
+                        How React works?
                     </button>
                     </h2>
                     <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div className="accordion-body">
                     <p>React is a javascript library. It is declarative, efficient. <br /> This library aims to create a user interface that helps us generate a spa(single page application). <br /> If you want to use this library, you need to know es6 HTML and CSS and a little bit of knowledge about npm(node package manager )
                         you also have to understand how jsx works jsx stands for (javascript XML)
-                        to install react, you have put this command in CLI(Command Line Interface)</p>
+                        to install react, you have put this command in CLI(Command Line Interface).</p>
                     </div>
                     </div>
                 </div>
                 <div className="accordion-item">
                     <h2 className="accordion-header" id="headingOne">
                     <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne">
-                     What Is The Difference Between Props And State?
+                     What is the difference between Props And State?
                     </button>
                     </h2>
                     <div id="collapseOne1" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                     <div className="accordion-body">
                     <p>It is internal and controlled by the component itself, while props are external and controlled by whatever renders the part. <br /> there are lots of differences between props and states 
-the props are read-only, but on the same hand, state can be modified also Props are immutable and State is mutable Props allow you to pass data from one component to other components as an argument. The state holds information about the components.</p>
+                    the props are read-only, but on the same hand, state can be modified also Props are immutable and State is mutable Props allow you to pass data from one component to other components as an argument. The state holds information about the components.</p>
                     </div>
                     </div>
                 </div>
