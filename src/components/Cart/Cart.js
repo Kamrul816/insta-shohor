@@ -1,7 +1,7 @@
 import React from 'react';
 
 function Cart({cart}) {
-  const {id,name,img} = cart;
+  const {name} = cart;
   return (
     <>
         <p className='text-center text-white border-bottom'>{name}</p>

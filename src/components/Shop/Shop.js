@@ -32,8 +32,9 @@ function Shop() {
 
   return (
     <>
-        <div className="container-fluid btn-primary mb-5">
-            <h1 className='text-center fw-5 py-3'>Headphones Giveway</h1>
+        <div className="container-fluid bg-info mb-5">
+            <h1 className='text-center text-white fw-5 py-3'>Toyota Car World</h1>
+            <h2 className='text-white text-center py-3'>Your Best Choice</h2>
         </div>
 
         <div className="container-fluid">
@@ -45,8 +46,8 @@ function Shop() {
                     }
                     </div>
                 </div>
-                <div className="col-md-3">
-                    <div className='cart rounded bg-primary'>
+                <div className="ms-5 col-md-3">
+                    <div className='cart rounded bg-info'>
                         <h2 className='text-white text-center mb-5'>Selected Products</h2>
                             {
                                 carts.map(cart=> <Cart key={cart.id} cart={cart}></Cart>)
@@ -61,29 +62,29 @@ function Shop() {
         </div>
 
         <div className="container mb-5">
-            <div class="accordion" id="accordionExample">
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+            <div className="accordion" id="accordionExample">
+                <div className="accordion-item">
+                    <h2 className="accordion-header" id="headingOne">
+                    <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                         How React Works?
                     </button>
                     </h2>
-                    <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
+                    <div id="collapseOne" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div className="accordion-body">
                     <p>React is a javascript library. It is declarative, efficient. <br /> This library aims to create a user interface that helps us generate a spa(single page application). <br /> If you want to use this library, you need to know es6 HTML and CSS and a little bit of knowledge about npm(node package manager )
                         you also have to understand how jsx works jsx stands for (javascript XML)
                         to install react, you have put this command in CLI(Command Line Interface)</p>
                     </div>
                     </div>
                 </div>
-                <div class="accordion-item">
-                    <h2 class="accordion-header" id="headingOne">
-                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne">
+                <div className="accordion-item">
+                    <h2 className="accordion-header" id="headingOne">
+                    <button className="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne1" aria-expanded="true" aria-controls="collapseOne">
                      What Is The Difference Between Props And State?
                     </button>
                     </h2>
-                    <div id="collapseOne1" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
-                    <div class="accordion-body">
+                    <div id="collapseOne1" className="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                    <div className="accordion-body">
                     <p>It is internal and controlled by the component itself, while props are external and controlled by whatever renders the part. <br /> there are lots of differences between props and states 
 the props are read-only, but on the same hand, state can be modified also Props are immutable and State is mutable Props allow you to pass data from one component to other components as an argument. The state holds information about the components.</p>
                     </div>
